@@ -11,7 +11,7 @@ const proyectos = [
         titulo: "16 - Simulador de Emails",
         descripcion: "Validación de formularios y eventos.",
         ruta: "./16-PROYECTO-Emails/",
-        activo: false,
+        activo: true,
         categoria: "javascript",
     },
     {
