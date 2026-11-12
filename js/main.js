@@ -32,7 +32,7 @@ const proyectos = [
         titulo: "05 - Carrito con LocalStorage",
         descripcion: "Persistencia del carrito de compras.",
         ruta: "./20-PROYECTO-Carrito-LocalStorage/",
-        activo: false,
+        activo: true,
         categoria: "javascript",
     },
     {
