@@ -25,7 +25,7 @@ const proyectos = [
         titulo: "19 - Tweets con LocalStorage",
         descripcion: "Persistencia de datos con LocalStorage.",
         ruta: "./19-PROYECTO-Tweets/",
-        activo: false,
+        activo: true,
         categoria: "javascript",
     },
     {

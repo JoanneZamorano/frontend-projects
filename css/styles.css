@@ -90,10 +90,11 @@ header p {
 
 section {
     margin-bottom: 2rem;
+    max-width: 1000px;
+    margin: 0 auto 3rem auto;
 }
 
 section h2 {
-    margin-bottom: 1.5rem;
     color: white;
     margin-bottom: 1.5rem;
     padding-bottom: .5rem;
