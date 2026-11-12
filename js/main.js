@@ -18,7 +18,7 @@ const proyectos = [
         titulo: "17 - Buscador de Vehículos",
         descripcion: "Filtrado dinámico por múltiples campos.",
         ruta: "./17-PROYECTO-Buscador/",
-        activo: false,
+        activo: true,
         categoria: "javascript",
     },
     {
