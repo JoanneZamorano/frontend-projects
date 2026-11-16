@@ -39,7 +39,7 @@ const proyectos = [
         titulo: "06 - Cotizador de Seguros",
         descripcion: "Prototipos y programación orientada a objetos.",
         ruta: "./23-PROYECTO-Cotizador/",
-        activo: false,
+        activo: true,
         categoria: "javascript",
     },
     {
