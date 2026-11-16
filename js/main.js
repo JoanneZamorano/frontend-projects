@@ -46,7 +46,7 @@ const proyectos = [
         titulo: "07 - Presupuesto",
         descripcion: "Administrador de presupuesto con clases.",
         ruta: "./25-PROYECTO-Presupuesto/",
-        activo: false,
+        activo: true,
         categoria: "javascript",
     },
     {
