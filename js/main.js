@@ -144,12 +144,12 @@ const proyectos = [
 
     // ANGULAR
     {
-        categoria: "angular",
-        titulo: "01 - Gestor de Clientes",
-        descripcion: "CRUD de clientes con Angular.",
-        ruta: "./angular/clientes/",
-        activo: false
-    }
+    categoria: "angular",
+    titulo: "01 - Gifts App",
+    descripcion: "Aplicación Angular para buscar GIFs, ver tendencias e historial utilizando la API de Giphy.",
+    ruta: "https://gifts-app-jz-frontend-projects.vercel.app/dashboard/trending",
+    activo: true
+}
 ];
 
 
